@@ -1,0 +1,15 @@
+.moviesList {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.movie {
+    background-color: rgb(165, 165, 165);
+    color: white;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
